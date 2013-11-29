@@ -20,10 +20,10 @@ BuildRequires:	R-Rsamtools
 BuildRequires:	R-GenomicFeatures
 BuildRequires:	texlive-latex
 Requires:	R
-Requires:	R-scales
-Requires:	R-Hmisc
-Requires:	R-RColorBrewer
-Requires:	R-dichromat
+Requires:	R-cran-scales
+Requires:	R-cran-Hmisc
+Requires:	R-cran-RColorBrewer
+Requires:	R-cran-dichromat
 Requires:	R-GenomicRanges
 Requires:	R-Biostrings
 Requires:	R-Rsamtools
