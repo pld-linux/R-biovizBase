@@ -3,7 +3,7 @@
 Summary:	Basic graphic utilities for visualization of genomic data
 Name:		R-%{packname}
 Version:	1.10.4
-Release:	1
+Release:	2
 License:	Artistic 2.0
 Group:		X11/Applications
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
